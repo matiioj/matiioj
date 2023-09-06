@@ -5,7 +5,7 @@
 
 ## Some facts about me
 
-* I am working as a service technician at my former school, almost for an entire year.
+* I work as a service technician since April of 2022.
 * I'm currently learning full-stack technologies on a bootcamp.
 * How to reach me: @matiioj on every social. matiiojj@gmail.com via email.
 
