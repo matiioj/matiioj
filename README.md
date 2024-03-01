@@ -5,25 +5,7 @@
 ## Some facts about me
 
 * I work as a service technician since April of 2022.
-* I'm currently learning full-stack technologies on a bootcamp.
-* How to reach me: @matiioj on every social. matiiojj@gmail.com via email.
+* Reach me: matiiojj@gmail.com via email.
 
-## My most used commands on Linux
-
-| Commands | Description |
-| ---------|------------|
-| clear | Clears the terminal screen |
-| cd | Changes the current directory according to given parameters | 
-| ls | Lists the directories on the current directory | 
-| pwd | Shows the current directory | 
-| mkdir | Creates an empty directory inside the current one | 
-
-## My most useful alias commands on Linux
-
-| Commands | Description |
-| -------- | ----------- |
-| cl | Clear | 
-| npms | npm start | 
-| npmd | npm run dev |
-
+  
 ##### Thank you for reading! 
